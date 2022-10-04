@@ -15,11 +15,12 @@ const Signup = () => {
             {/* right */}
             <div className='right'>
                 <h2>Earn passive income with Crypto</h2>
-                <p>Earn up to 12% annual rewards on 30+ digital assets. simply hpold on to it</p>
-            </div>
+                <p>Earn up to 12% annual rewards on 30+ digital assets. simply hold your assets. Simply
+                   hold your assets in the app to automatically earn rewards at the end of each month with no lockups and no limits.</p>
             <div className='input-container'>
                 <input type='email' placeholder='Enter your Email' />
                 <button className='btn'>Learn More</button>
+            </div>
             </div>
         </div>
     </div>
